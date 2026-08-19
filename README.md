@@ -6,14 +6,22 @@
 🙌 Huge credits:
 Created by Istiaque Faroque Nabil
 Modified & enhanced by Md Arafat Hossen – making it more robust and user‑friendly for the research community.
+
 ⚙️ How to use it (Windows):
 Press Windows + R, type cmd, and hit Enter to open the Command Prompt.
+
 (Requirements)
+
 Python version = 3.x
+
 python --version (to know python version)
+
 pip install pandas openpyxl
+
 python -m pip install selenium
+
 pip install requests beautifulsoup4
+
 python -c "import pandas as pd; print(pd.__version__)"
 
 Once the dependencies are installed, simply drag the .py script file into the Command Prompt window and press Enter.
