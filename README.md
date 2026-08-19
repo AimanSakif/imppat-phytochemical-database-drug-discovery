@@ -8,9 +8,7 @@ Created by Istiaque Faroque Nabil
 Modified & enhanced by Md Arafat Hossen – making it more robust and user‑friendly for the research community.
 ⚙️ How to use it (Windows):
 Press Windows + R, type cmd, and hit Enter to open the Command Prompt.
-Run the following setup commands one by one:
-
-Requirements:
+(Requirements)
 Python version = 3.x
 python --version (to know python version)
 pip install pandas openpyxl
