@@ -31,5 +31,9 @@ The GUI will open – type the scientific name of your plant and click Download.
 The tool will start fetching the data. All downloaded .sdf files and the summary tables will be saved directly to:
 C:\Users\[YourPCUsername]\[Plant]
 
+or you may download it from here
+
+https://drive.google.com/file/d/17K-kffXWZiDhyfdqyp61cRVzqFVDHM-Q/view?usp=drive_link
+
 It’s that easy! 🚀
 This tool is perfect for researchers in cheminformatics, pharmacognosy, drug discovery, and natural product chemistry. No more tedious copy‑pasting – just pure automation. If you are not able to run it, just take screenshot of the error and ask any AI to solve it, and do as the AI commands. 
