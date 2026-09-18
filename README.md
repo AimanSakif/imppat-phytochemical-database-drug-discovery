@@ -5,6 +5,8 @@ A free tool for everyone. Open for all for further development, but ensure to ke
 3. Downloads the 3D conformer SDF from PubChem (with a fallback to IMPPAT’s own SDF)
 4. Saves a summary CSV + Excel report with all metadata
 
+https://drive.google.com/file/d/17K-kffXWZiDhyfdqyp61cRVzqFVDHM-Q/view?usp=drive_link
+
 🙌 Huge credits:
 Created by Istiaque Faroque Nabil
 Modified & enhanced by Md Arafat Hossen – making it more robust and user‑friendly for the research community.
@@ -33,7 +35,7 @@ C:\Users\[YourPCUsername]\[Plant]
 
 or you may download it from here
 
-https://drive.google.com/file/d/17K-kffXWZiDhyfdqyp61cRVzqFVDHM-Q/view?usp=drive_link
+
 
 It’s that easy! 🚀
 This tool is perfect for researchers in cheminformatics, pharmacognosy, drug discovery, and natural product chemistry. No more tedious copy‑pasting – just pure automation. If you are not able to run it, just take screenshot of the error and ask any AI to solve it, and do as the AI commands. 
