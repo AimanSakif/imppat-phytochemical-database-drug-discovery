@@ -1,3 +1,4 @@
+New Bug fixed file is uploads, please download new one
 A free tool for everyone. Open for all for further development, but ensure to keep it free for everyone.
 🔬 What it does:
 1. Takes a plant’s scientific name (e.g., Oryza sativa)
@@ -33,7 +34,7 @@ C:\Users\[YourPCUsername]\[Plant]
 
 or you may download it from here
 
-https://drive.google.com/file/d/17K-kffXWZiDhyfdqyp61cRVzqFVDHM-Q/view?usp=drive_link
+https://drive.google.com/file/d/1METFH8Jb-CU1CkM5Tyhxwo0sIotRHMmW/view?usp=sharing
 
 It’s that easy! 🚀
 This tool is perfect for researchers in cheminformatics, pharmacognosy, drug discovery, and natural product chemistry. No more tedious copy‑pasting – just pure automation. If you are not able to run it, just take screenshot of the error and ask any AI to solve it, and do as the AI commands. 
